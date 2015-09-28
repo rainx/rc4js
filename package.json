@@ -1,0 +1,23 @@
+{
+  "name": "rc4js",
+  "version": "1.0.0",
+  "description": "js version rc4 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainx/rc4js.git"
+  },
+  "author": "RainX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainx/rc4js/issues"
+  },
+  "homepage": "https://github.com/rainx/rc4js#readme",
+  "dependencies": {
+    "create-hash": "^1.1.2",
+    "evp_bytestokey": "^1.0.0"
+  }
+}
